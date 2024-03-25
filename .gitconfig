@@ -1,0 +1,5 @@
+[user]
+	name = Tatsuya Tomita
+	email = tat@seriousexplosion.net
+[core]
+	excludesfile = ~/dotfiles/.gitignore-global
